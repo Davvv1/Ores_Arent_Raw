@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Makes ores drop themselves."
+  },
+  "min_format": [48, 0],
+  "max_format": [94, 1]
+}
